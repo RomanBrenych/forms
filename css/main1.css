@@ -1,0 +1,168 @@
+body {
+    background-color: rgba(245, 241, 241, 0.979);
+}
+
+.box {
+    margin: auto; 
+    margin-top: -7px;  
+    margin-bottom: -7px;
+    width: 850px;
+    height: 890px;
+    background-color: #ffffff;
+    border: 4px solid white;
+}
+
+.box1 {
+    margin: auto;
+    width: 848px;
+    height: 888px;
+    border: 1px solid #96c271;
+    background-color: #ffffff;
+    font-family: 'Noto Sans', sans-serif;
+    position: relative;
+}
+
+.one {
+    border: 0px solid #96c271;
+    height: 60px;
+    width: 848px;
+    background-color: #c1eb9f;
+}
+
+p {
+    font-weight: bold;
+    font-size: 17px;
+    padding-left: 10px;
+    padding-right: 30px;
+    float: left; 
+}
+
+select {
+    margin-top: 20px;
+    border: 0px solid black;
+    background-color:#c1eb9f;
+}
+
+.next {
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+input {
+    margin-top: 14px; 
+    border: 1px solid #d3d3d3;
+}
+
+span {
+    color: #f07171;
+}
+
+textarea {
+    margin-top: 14px; 
+    width: 171px;
+    height: 90px;
+    border: 1px solid #d3d3d3;
+}
+
+.two {
+    background-color: white;
+    width: 178px;
+    border: 1px solid #d3d3d3;
+}
+
+.bar {
+    margin-left: 150px;
+}
+
+.bar1 {
+    margin-left: 140px;
+    margin-top: 10px;
+}
+
+.world {
+    font-size: 14px;
+    font-weight: normal;
+    padding-right: 40px;
+}
+
+.world1 {
+    font-size: 14px;
+    font-weight: normal;
+    margin-left: -77px;
+}
+
+.top1 {
+    margin-left: 6px;
+}
+
+.top2 {
+    margin-left: -27px;
+}
+
+.next2 {
+    font-size: 14px;
+    padding-right: 230px; 
+    margin-top: -745px; 
+    float: right; 
+}
+ 
+.bar2 {
+    margin-right: 110px;
+    float: right; 
+    margin-top: -750px;
+    font-size: 14px;
+} 
+
+.next3 {
+    font-size: 14px;
+    padding-right: 237px;
+    margin-top: -641px;
+    float: right;
+}
+
+.bar3 {
+    margin-right: 134px;
+    float: right;
+    margin-top: -645px;
+    font-size: 14px;
+}
+
+.next4 {
+    font-size: 14px;
+    padding-right: 384px;
+    margin-top: -545px;
+    float: right;
+}
+
+.bar4 {
+    margin-right: 30px;
+    float: right;
+    margin-top: -555px;
+}
+
+.footer {
+    border: 0px solid #cbdff1; 
+    width: 100%;
+    height: 60px; 
+    bottom: 0px;
+    background-color: #e3e3e3;
+    position: absolute;
+    text-align: center;
+}
+
+.type {
+    width: 100px;
+    height: 34px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #91ba6f;
+    border: 1px solid #84ad62;
+}
+
+
+  
+
+
+
+
